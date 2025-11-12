@@ -68,8 +68,6 @@ All lessons are **fully runnable**, **commented**, and **written with real-world
 1. Open the full Visual Studio solution:
 CSharp22ExSolution\CSharp22ExSolution.sln
 
-markdown
-Copy code
 This single solution loads **all 22 C# projects** — each folder (`ex001_...` to `ex022_...`) represents one lesson.
 
 2. To run any specific lesson:
