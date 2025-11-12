@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj",
         "projectName": "FinalBossEnterprize",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex22_FinalBossEnterprize\\FinalBossEnterprize.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex22_FinalBossEnterprize\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex22_FinalBossEnterprize\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

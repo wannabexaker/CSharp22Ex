@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+      "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
       "projectName": "ex003_NumericOperationsAndDataTypes",
-      "projectPath": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+      "projectPath": "C:\\Projects\\CSharp22Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
       "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\obj\\",
+      "outputPath": "C:\\Projects\\CSharp22Ex\\ex003_NumericOperationsAndDataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

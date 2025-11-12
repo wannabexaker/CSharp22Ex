@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj",
         "projectName": "ex019_RazorPagesIntro",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex019_RazorPagesIntro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

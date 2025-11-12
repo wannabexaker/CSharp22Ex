@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex009_ClassesAndProperties\\ex009_ClassesAndProperties.csproj",
+      "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex009_ClassesAndProperties\\ex009_ClassesAndProperties.csproj",
       "projectName": "ex009_ClassesAndProperties",
-      "projectPath": "C:\\Projects\\CSharp50Ex\\ex009_ClassesAndProperties\\ex009_ClassesAndProperties.csproj",
+      "projectPath": "C:\\Projects\\CSharp22Ex\\ex009_ClassesAndProperties\\ex009_ClassesAndProperties.csproj",
       "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSharp50Ex\\ex009_ClassesAndProperties\\obj\\",
+      "outputPath": "C:\\Projects\\CSharp22Ex\\ex009_ClassesAndProperties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

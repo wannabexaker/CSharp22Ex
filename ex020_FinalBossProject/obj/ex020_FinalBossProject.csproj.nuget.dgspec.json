@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj",
         "projectName": "ex020_FinalBossProject",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex020_FinalBossProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

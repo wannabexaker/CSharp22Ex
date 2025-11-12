@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj",
         "projectName": "ex012_InterfacesAndImplementation",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex012_InterfacesAndImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

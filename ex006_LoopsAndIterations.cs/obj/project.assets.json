@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex006_LoopsAndIterations.cs\\ex006_LoopsAndIterations.csproj",
+      "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex006_LoopsAndIterations.cs\\ex006_LoopsAndIterations.csproj",
       "projectName": "ex006_LoopsAndIterations",
-      "projectPath": "C:\\Projects\\CSharp50Ex\\ex006_LoopsAndIterations.cs\\ex006_LoopsAndIterations.csproj",
+      "projectPath": "C:\\Projects\\CSharp22Ex\\ex006_LoopsAndIterations.cs\\ex006_LoopsAndIterations.csproj",
       "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSharp50Ex\\ex006_LoopsAndIterations.cs\\obj\\",
+      "outputPath": "C:\\Projects\\CSharp22Ex\\ex006_LoopsAndIterations.cs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

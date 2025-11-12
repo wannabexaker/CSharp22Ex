@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj",
         "projectName": "ex002_VariablesAndStrings",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex002_VariablesAndStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

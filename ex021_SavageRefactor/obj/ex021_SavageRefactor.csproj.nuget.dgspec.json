@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj",
         "projectName": "ex021_SavageRefactor",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex021_SavageRefactor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

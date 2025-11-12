@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj": {}
+    "C:\\Projects\\CSharp22Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj": {
+    "C:\\Projects\\CSharp22Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj",
+        "projectUniqueName": "C:\\Projects\\CSharp22Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj",
         "projectName": "ex014_NamespacesAndGenerics",
-        "projectPath": "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj",
+        "projectPath": "C:\\Projects\\CSharp22Ex\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj",
         "packagesPath": "C:\\Users\\Jiannis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\obj\\",
+        "outputPath": "C:\\Projects\\CSharp22Ex\\ex014_NamespacesAndGenerics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

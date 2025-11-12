@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex017_AsyncAndThreads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d562eb70e691e356325daf114db25eb707893e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex017_AsyncAndThreads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex017_AsyncAndThreads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
