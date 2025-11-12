@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CSharp50Ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex001_WriteReadClear\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex001_WriteReadClear\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex001_SystemConsoleBasics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex002_VariablesAndStrings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex003_NumericOperationsAndDataTypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex002_VariablesAndStrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex001_WriteReadClear\\Program.cs",
+              "RelativeDocumentMoniker": "ex001_WriteReadClear\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex001_WriteReadClear\\Program.cs",
+              "RelativeToolTip": "ex001_WriteReadClear\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:35:59.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:33:32.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex003_NumericOperationsAndDataTypes.csproj",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+              "RelativeDocumentMoniker": "ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+              "RelativeToolTip": "ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T08:30:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\Program.cs",
+              "RelativeDocumentMoniker": "ex002_VariablesAndStrings\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\Program.cs",
+              "RelativeToolTip": "ex002_VariablesAndStrings\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:30:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\Program.cs",
+              "RelativeDocumentMoniker": "ex001_SystemConsoleBasics\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\Program.cs",
+              "RelativeToolTip": "ex001_SystemConsoleBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:30:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex003_NumericOperationsAndDataTypes.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes.cs",
+              "RelativeDocumentMoniker": "ex003_NumericOperationsAndDataTypes.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes.cs",
+              "RelativeToolTip": "ex003_NumericOperationsAndDataTypes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:47:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex002_VariablesAndStrings.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings.cs",
+              "RelativeDocumentMoniker": "ex002_VariablesAndStrings.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings.cs",
+              "RelativeToolTip": "ex002_VariablesAndStrings.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:46:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex001_SystemConsoleBasics.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs",
+              "RelativeDocumentMoniker": "ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs",
+              "RelativeToolTip": "ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T00:42:34.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

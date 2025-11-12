@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\bin\Debug\net8.0\ex018_IntroToMVC.exe
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\bin\Debug\net8.0\ex018_IntroToMVC.deps.json
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\bin\Debug\net8.0\ex018_IntroToMVC.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\bin\Debug\net8.0\ex018_IntroToMVC.dll
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\bin\Debug\net8.0\ex018_IntroToMVC.pdb
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.dll
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\refint\ex018_IntroToMVC.dll
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.pdb
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ex018_IntroToMVC.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex018_IntroToMVC\obj\Debug\net8.0\ref\ex018_IntroToMVC.dll

@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\bin\Debug\net8.0\ex012_InterfacesAndImplementation.exe
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\bin\Debug\net8.0\ex012_InterfacesAndImplementation.deps.json
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\bin\Debug\net8.0\ex012_InterfacesAndImplementation.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\bin\Debug\net8.0\ex012_InterfacesAndImplementation.dll
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\bin\Debug\net8.0\ex012_InterfacesAndImplementation.pdb
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.dll
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\refint\ex012_InterfacesAndImplementation.dll
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.pdb
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ex012_InterfacesAndImplementation.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex012_InterfacesAndImplementation\obj\Debug\net8.0\ref\ex012_InterfacesAndImplementation.dll

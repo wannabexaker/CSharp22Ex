@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\bin\Debug\net8.0\ex002_VariablesAndStrings.exe
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\bin\Debug\net8.0\ex002_VariablesAndStrings.deps.json
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\bin\Debug\net8.0\ex002_VariablesAndStrings.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\bin\Debug\net8.0\ex002_VariablesAndStrings.dll
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\bin\Debug\net8.0\ex002_VariablesAndStrings.pdb
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.dll
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\refint\ex002_VariablesAndStrings.dll
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.pdb
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ex002_VariablesAndStrings.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex002_VariablesAndStrings\obj\Debug\net8.0\ref\ex002_VariablesAndStrings.dll

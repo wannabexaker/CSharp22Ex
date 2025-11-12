@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\bin\Debug\net8.0\ex011_InheritanceAndAbstraction.exe
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\bin\Debug\net8.0\ex011_InheritanceAndAbstraction.deps.json
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\bin\Debug\net8.0\ex011_InheritanceAndAbstraction.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\bin\Debug\net8.0\ex011_InheritanceAndAbstraction.dll
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\bin\Debug\net8.0\ex011_InheritanceAndAbstraction.pdb
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.dll
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\refint\ex011_InheritanceAndAbstraction.dll
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.pdb
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ex011_InheritanceAndAbstraction.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex011_InheritanceAndAbstraction\obj\Debug\net8.0\ref\ex011_InheritanceAndAbstraction.dll

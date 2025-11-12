@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ex002_VariablesAndStrings": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

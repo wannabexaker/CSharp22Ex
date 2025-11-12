@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex018_IntroToMVC/1.0.0": {
+        "runtime": {
+          "ex018_IntroToMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex018_IntroToMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

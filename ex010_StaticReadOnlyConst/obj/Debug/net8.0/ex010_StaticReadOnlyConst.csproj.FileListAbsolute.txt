@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\bin\Debug\net8.0\ex010_StaticReadOnlyConst.exe
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\bin\Debug\net8.0\ex010_StaticReadOnlyConst.deps.json
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\bin\Debug\net8.0\ex010_StaticReadOnlyConst.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\bin\Debug\net8.0\ex010_StaticReadOnlyConst.dll
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\bin\Debug\net8.0\ex010_StaticReadOnlyConst.pdb
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.dll
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\refint\ex010_StaticReadOnlyConst.dll
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.pdb
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ex010_StaticReadOnlyConst.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex010_StaticReadOnlyConst\obj\Debug\net8.0\ref\ex010_StaticReadOnlyConst.dll

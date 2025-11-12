@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\bin\Debug\net8.0\ex013_EnumsAndSwitch.exe
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\bin\Debug\net8.0\ex013_EnumsAndSwitch.deps.json
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\bin\Debug\net8.0\ex013_EnumsAndSwitch.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\bin\Debug\net8.0\ex013_EnumsAndSwitch.dll
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\bin\Debug\net8.0\ex013_EnumsAndSwitch.pdb
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.dll
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\refint\ex013_EnumsAndSwitch.dll
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.pdb
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ex013_EnumsAndSwitch.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex013_EnumsAndSwitch\obj\Debug\net8.0\ref\ex013_EnumsAndSwitch.dll

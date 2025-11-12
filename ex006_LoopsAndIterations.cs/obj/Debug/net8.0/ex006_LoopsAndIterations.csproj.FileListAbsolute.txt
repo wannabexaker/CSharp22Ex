@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\bin\Debug\net8.0\ex006_LoopsAndIterations.exe
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\bin\Debug\net8.0\ex006_LoopsAndIterations.deps.json
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\bin\Debug\net8.0\ex006_LoopsAndIterations.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\bin\Debug\net8.0\ex006_LoopsAndIterations.dll
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\bin\Debug\net8.0\ex006_LoopsAndIterations.pdb
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.dll
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\refint\ex006_LoopsAndIterations.dll
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.pdb
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ex006_LoopsAndIterations.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex006_LoopsAndIterations.cs\obj\Debug\net8.0\ref\ex006_LoopsAndIterations.dll

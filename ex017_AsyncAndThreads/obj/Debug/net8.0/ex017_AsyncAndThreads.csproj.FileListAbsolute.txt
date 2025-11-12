@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\bin\Debug\net8.0\ex017_AsyncAndThreads.exe
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\bin\Debug\net8.0\ex017_AsyncAndThreads.deps.json
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\bin\Debug\net8.0\ex017_AsyncAndThreads.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\bin\Debug\net8.0\ex017_AsyncAndThreads.dll
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\bin\Debug\net8.0\ex017_AsyncAndThreads.pdb
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.dll
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\refint\ex017_AsyncAndThreads.dll
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.pdb
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ex017_AsyncAndThreads.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex017_AsyncAndThreads\obj\Debug\net8.0\ref\ex017_AsyncAndThreads.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex017_AsyncAndThreads/1.0.0": {
+        "runtime": {
+          "ex017_AsyncAndThreads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex017_AsyncAndThreads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CSharp50Ex\\CSharp50ExSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C413263A-53BD-9899-7360-5E14155F2ACB}|..\\ex018_IntroToMVC\\ex018_IntroToMVC.csproj|c:\\projects\\csharp50ex\\ex018_introtomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BE13-B8CF-EEFF-C2A0-7BF8E0528762}|..\\ex017_AsyncAndThreads\\ex017_AsyncAndThreads.csproj|c:\\projects\\csharp50ex\\ex017_asyncandthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0073DC1A-3684-3967-F32B-17C416541A9C}|..\\ex016_StringBuilderAndFileIO\\ex016_StringBuilderAndFileIO.csproj|c:\\projects\\csharp50ex\\ex016_stringbuilderandfileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A94A151-3B5C-E0E8-6221-F6CB960FDE0B}|..\\ex015_CollectionsAndLinq\\ex015_CollectionsAndLinq.csproj|c:\\projects\\csharp50ex\\ex015_collectionsandlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD22A4D9-D47A-6266-9840-21B8B29D8412}|..\\ex014_NamespacesAndGenerics\\ex014_NamespacesAndGenerics.csproj|c:\\projects\\csharp50ex\\ex014_namespacesandgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DABF79-8382-C1D0-D3BD-4FD94E9E0B4C}|..\\ex012_InterfacesAndImplementation\\ex012_InterfacesAndImplementation.csproj|c:\\projects\\csharp50ex\\ex012_interfacesandimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2FE-E5C4-8BEE-EC87-78DB342E48E3}|..\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj|c:\\projects\\csharp50ex\\ex010_staticreadonlyconst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2C198B-0883-7129-7AB2-83F7E09B8244}|..\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj|c:\\projects\\csharp50ex\\ex011_inheritanceandabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC42F01D-7ADA-6AD3-85D2-34F929E372E7}|..\\ex013_EnumsAndSwitch\\ex013_EnumsAndSwitch.csproj|c:\\projects\\csharp50ex\\ex013_enumsandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCC5EAB-F5DB-80C5-77F0-91A29B4B1E1A}|..\\ex009_ClassesAndProperties\\ex009_ClassesAndProperties.csproj|c:\\projects\\csharp50ex\\ex009_classesandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B19D7B-5CBD-90C2-59AD-DF2656CB31F8}|..\\ex008_ExceptionHandling\\ex008_ExceptionHandling.csproj|c:\\projects\\csharp50ex\\ex008_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E620B6A-1BB1-843D-AE36-D293FEDDD835}|..\\ex007_MethodsAndParameters\\ex007_MethodsAndParameters.csproj|c:\\projects\\csharp50ex\\ex007_methodsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C54388-B667-6955-93C1-1957D16FB8FF}|..\\ex006_LoopsAndIterations.cs\\ex006_LoopsAndIterations.csproj|c:\\projects\\csharp50ex\\ex006_loopsanditerations.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA20727-1648-8806-E8A8-7E9ABDB8FF79}|..\\ex005_ConditionalStatements.cs\\ex005_ConditionalStatements.cs.csproj|c:\\projects\\csharp50ex\\ex005_conditionalstatements.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C5C823-7A46-ECD0-0306-10B5002BDDA9}|..\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj|c:\\projects\\csharp50ex\\ex004_userinputandconversion.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C5C823-7A46-ECD0-0306-10B5002BDDA9}|..\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj|c:\\projects\\csharp50ex\\ex004_userinputandconversion.cs\\ex004_userinputandconversion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2C198B-0883-7129-7AB2-83F7E09B8244}|..\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj|c:\\projects\\csharp50ex\\ex011_inheritanceandabstraction\\ex011_inheritanceandabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A2EC5-E060-C65B-0274-1974668EF043}|..\\ex003_NumericOperationsAndDataTypes\\ex003_NumericOperationsAndDataTypes.csproj|c:\\projects\\csharp50ex\\ex003_numericoperationsanddatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52584C0-DDDA-4554-E981-A915A1506CDC}|..\\ex002_VariablesAndStrings\\ex002_VariablesAndStrings.csproj|c:\\projects\\csharp50ex\\ex002_variablesandstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C426F2FE-E5C4-8BEE-EC87-78DB342E48E3}|..\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj|c:\\projects\\csharp50ex\\ex010_staticreadonlyconst\\ex010_staticreadonlyconst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB3BCE-DE65-0D46-3503-0E9DDC20DAB9}|..\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj|c:\\projects\\csharp50ex\\ex021_savagerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFB3BCE-DE65-0D46-3503-0E9DDC20DAB9}|..\\ex021_SavageRefactor\\ex021_SavageRefactor.csproj|c:\\projects\\csharp50ex\\ex021_savagerefactor\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF30775B-138B-6D3B-45CA-BE7173063455}|..\\ex020_FinalBossProject\\ex020_FinalBossProject.csproj|c:\\projects\\csharp50ex\\ex020_finalbossproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E95FA1-1C7F-7C6D-14B2-533BD23D7A43}|..\\ex019_RazorPagesIntro\\ex019_RazorPagesIntro.csproj|c:\\projects\\csharp50ex\\ex019_razorpagesintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB32740-08CE-B90E-15BD-2C31E58EC1FB}|..\\ex001_SystemConsoleBasics\\ex001_SystemConsoleBasics.csproj|c:\\projects\\csharp50ex\\ex001_systemconsolebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex011_InheritanceAndAbstraction\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex011_InheritanceAndAbstraction\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex011_InheritanceAndAbstraction\\Program.cs",
+              "RelativeToolTip": "..\\ex011_InheritanceAndAbstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:38:58.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex004_UserInputAndConversion.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex004_UserInputAndConversion.cs\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex004_UserInputAndConversion.cs\\Program.cs",
+              "RelativeToolTip": "..\\ex004_UserInputAndConversion.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:57:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex007_MethodsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex007_MethodsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex007_MethodsAndParameters\\Program.cs",
+              "RelativeToolTip": "..\\ex007_MethodsAndParameters\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:28:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex008_ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex008_ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex008_ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "..\\ex008_ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:30:02.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex014_NamespacesAndGenerics\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex014_NamespacesAndGenerics\\Program.cs",
+              "RelativeToolTip": "..\\ex014_NamespacesAndGenerics\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:24:15.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex015_CollectionsAndLinq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex015_CollectionsAndLinq\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex015_CollectionsAndLinq\\Program.cs",
+              "RelativeToolTip": "..\\ex015_CollectionsAndLinq\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:21:17.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex016_StringBuilderAndFileIO\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex016_StringBuilderAndFileIO\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex016_StringBuilderAndFileIO\\Program.cs",
+              "RelativeToolTip": "..\\ex016_StringBuilderAndFileIO\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:25:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex017_AsyncAndThreads\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex017_AsyncAndThreads\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex017_AsyncAndThreads\\Program.cs",
+              "RelativeToolTip": "..\\ex017_AsyncAndThreads\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwE0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:27:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex018_IntroToMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex018_IntroToMVC\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex018_IntroToMVC\\Program.cs",
+              "RelativeToolTip": "..\\ex018_IntroToMVC\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:29:54.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ex011_InheritanceAndAbstraction.csproj",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj",
+              "RelativeDocumentMoniker": "..\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj",
+              "RelativeToolTip": "..\\ex011_InheritanceAndAbstraction\\ex011_InheritanceAndAbstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T22:38:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex003_NumericOperationsAndDataTypes\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex003_NumericOperationsAndDataTypes\\Program.cs",
+              "RelativeToolTip": "..\\ex003_NumericOperationsAndDataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:50:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex009_ClassesAndProperties\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex009_ClassesAndProperties\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex009_ClassesAndProperties\\Program.cs",
+              "RelativeToolTip": "..\\ex009_ClassesAndProperties\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:31:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex012_InterfacesAndImplementation\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex012_InterfacesAndImplementation\\Program.cs",
+              "RelativeToolTip": "..\\ex012_InterfacesAndImplementation\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:16:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex010_StaticReadOnlyConst\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex010_StaticReadOnlyConst\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex010_StaticReadOnlyConst\\Program.cs",
+              "RelativeToolTip": "..\\ex010_StaticReadOnlyConst\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:33:16.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex013_EnumsAndSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex013_EnumsAndSwitch\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex013_EnumsAndSwitch\\Program.cs",
+              "RelativeToolTip": "..\\ex013_EnumsAndSwitch\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:18:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex006_LoopsAndIterations.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex006_LoopsAndIterations.cs\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex006_LoopsAndIterations.cs\\Program.cs",
+              "RelativeToolTip": "..\\ex006_LoopsAndIterations.cs\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:02:47.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ex004_UserInputAndConversion.csproj",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj",
+              "RelativeDocumentMoniker": "..\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj",
+              "RelativeToolTip": "..\\ex004_UserInputAndConversion.cs\\ex004_UserInputAndConversion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T09:57:42.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex005_ConditionalStatements.cs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex005_ConditionalStatements.cs\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex005_ConditionalStatements.cs\\Program.cs",
+              "RelativeToolTip": "..\\ex005_ConditionalStatements.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:01:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex002_VariablesAndStrings\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex002_VariablesAndStrings\\Program.cs",
+              "RelativeToolTip": "..\\ex002_VariablesAndStrings\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:18:13.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex021_SavageRefactor\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\Program.cs",
+              "RelativeToolTip": "..\\ex021_SavageRefactor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:08:00.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ex010_StaticReadOnlyConst.csproj",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj",
+              "RelativeDocumentMoniker": "..\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj",
+              "RelativeToolTip": "..\\ex010_StaticReadOnlyConst\\ex010_StaticReadOnlyConst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T22:42:46.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex019_RazorPagesIntro\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex019_RazorPagesIntro\\Program.cs",
+              "RelativeToolTip": "..\\ex019_RazorPagesIntro\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:34:26.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex020_FinalBossProject\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex020_FinalBossProject\\Program.cs",
+              "RelativeToolTip": "..\\ex020_FinalBossProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:40:33.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "..\\ex021_SavageRefactor\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex021_SavageRefactor\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "..\\ex021_SavageRefactor\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T21:02:23.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex001_SystemConsoleBasics\\Program.cs",
+              "ToolTip": "C:\\Projects\\CSharp50Ex\\ex001_SystemConsoleBasics\\Program.cs",
+              "RelativeToolTip": "..\\ex001_SystemConsoleBasics\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:18:11.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

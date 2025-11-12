@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\bin\Debug\net8.0\ex005_ConditionalStatements.cs.exe
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\bin\Debug\net8.0\ex005_ConditionalStatements.cs.deps.json
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\bin\Debug\net8.0\ex005_ConditionalStatements.cs.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\bin\Debug\net8.0\ex005_ConditionalStatements.cs.dll
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\bin\Debug\net8.0\ex005_ConditionalStatements.cs.pdb
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.dll
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\refint\ex005_ConditionalStatements.cs.dll
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.pdb
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ex005_ConditionalStatements.cs.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex005_ConditionalStatements.cs\obj\Debug\net8.0\ref\ex005_ConditionalStatements.cs.dll

@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\bin\Debug\net8.0\ex009_ClassesAndProperties.exe
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\bin\Debug\net8.0\ex009_ClassesAndProperties.deps.json
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\bin\Debug\net8.0\ex009_ClassesAndProperties.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\bin\Debug\net8.0\ex009_ClassesAndProperties.dll
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\bin\Debug\net8.0\ex009_ClassesAndProperties.pdb
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.dll
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\refint\ex009_ClassesAndProperties.dll
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.pdb
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ex009_ClassesAndProperties.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex009_ClassesAndProperties\obj\Debug\net8.0\ref\ex009_ClassesAndProperties.dll

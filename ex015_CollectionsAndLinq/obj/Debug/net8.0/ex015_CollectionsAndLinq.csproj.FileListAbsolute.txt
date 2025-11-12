@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\bin\Debug\net8.0\ex015_CollectionsAndLinq.exe
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\bin\Debug\net8.0\ex015_CollectionsAndLinq.deps.json
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\bin\Debug\net8.0\ex015_CollectionsAndLinq.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\bin\Debug\net8.0\ex015_CollectionsAndLinq.dll
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\bin\Debug\net8.0\ex015_CollectionsAndLinq.pdb
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.dll
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\refint\ex015_CollectionsAndLinq.dll
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.pdb
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ex015_CollectionsAndLinq.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex015_CollectionsAndLinq\obj\Debug\net8.0\ref\ex015_CollectionsAndLinq.dll

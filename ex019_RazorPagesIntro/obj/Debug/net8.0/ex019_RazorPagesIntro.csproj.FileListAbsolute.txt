@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\bin\Debug\net8.0\ex019_RazorPagesIntro.exe
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\bin\Debug\net8.0\ex019_RazorPagesIntro.deps.json
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\bin\Debug\net8.0\ex019_RazorPagesIntro.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\bin\Debug\net8.0\ex019_RazorPagesIntro.dll
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\bin\Debug\net8.0\ex019_RazorPagesIntro.pdb
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.dll
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\refint\ex019_RazorPagesIntro.dll
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.pdb
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ex019_RazorPagesIntro.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex019_RazorPagesIntro\obj\Debug\net8.0\ref\ex019_RazorPagesIntro.dll

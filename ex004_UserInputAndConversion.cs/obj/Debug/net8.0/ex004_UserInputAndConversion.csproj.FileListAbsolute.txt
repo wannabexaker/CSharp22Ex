@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\bin\Debug\net8.0\ex004_UserInputAndConversion.exe
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\bin\Debug\net8.0\ex004_UserInputAndConversion.deps.json
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\bin\Debug\net8.0\ex004_UserInputAndConversion.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\bin\Debug\net8.0\ex004_UserInputAndConversion.dll
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\bin\Debug\net8.0\ex004_UserInputAndConversion.pdb
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.dll
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\refint\ex004_UserInputAndConversion.dll
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.pdb
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ex004_UserInputAndConversion.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex004_UserInputAndConversion.cs\obj\Debug\net8.0\ref\ex004_UserInputAndConversion.dll

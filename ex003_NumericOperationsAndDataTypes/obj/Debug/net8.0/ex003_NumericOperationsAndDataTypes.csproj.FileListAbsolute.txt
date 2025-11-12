@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\bin\Debug\net8.0\ex003_NumericOperationsAndDataTypes.exe
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\bin\Debug\net8.0\ex003_NumericOperationsAndDataTypes.deps.json
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\bin\Debug\net8.0\ex003_NumericOperationsAndDataTypes.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\bin\Debug\net8.0\ex003_NumericOperationsAndDataTypes.dll
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\bin\Debug\net8.0\ex003_NumericOperationsAndDataTypes.pdb
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.dll
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\refint\ex003_NumericOperationsAndDataTypes.dll
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.pdb
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ex003_NumericOperationsAndDataTypes.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex003_NumericOperationsAndDataTypes\obj\Debug\net8.0\ref\ex003_NumericOperationsAndDataTypes.dll

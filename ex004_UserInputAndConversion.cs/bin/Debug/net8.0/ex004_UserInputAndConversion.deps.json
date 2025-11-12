@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex004_UserInputAndConversion/1.0.0": {
+        "runtime": {
+          "ex004_UserInputAndConversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex004_UserInputAndConversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

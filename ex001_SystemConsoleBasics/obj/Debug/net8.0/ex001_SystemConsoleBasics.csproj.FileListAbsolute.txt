@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\bin\Debug\net8.0\ex001_SystemConsoleBasics.exe
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\bin\Debug\net8.0\ex001_SystemConsoleBasics.deps.json
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\bin\Debug\net8.0\ex001_SystemConsoleBasics.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\bin\Debug\net8.0\ex001_SystemConsoleBasics.dll
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\bin\Debug\net8.0\ex001_SystemConsoleBasics.pdb
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.dll
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\refint\ex001_SystemConsoleBasics.dll
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.pdb
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ex001_SystemConsoleBasics.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex001_SystemConsoleBasics\obj\Debug\net8.0\ref\ex001_SystemConsoleBasics.dll

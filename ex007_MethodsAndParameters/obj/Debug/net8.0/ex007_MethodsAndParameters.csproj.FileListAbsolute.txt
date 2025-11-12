@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\bin\Debug\net8.0\ex007_MethodsAndParameters.exe
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\bin\Debug\net8.0\ex007_MethodsAndParameters.deps.json
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\bin\Debug\net8.0\ex007_MethodsAndParameters.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\bin\Debug\net8.0\ex007_MethodsAndParameters.dll
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\bin\Debug\net8.0\ex007_MethodsAndParameters.pdb
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.dll
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\refint\ex007_MethodsAndParameters.dll
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.pdb
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ex007_MethodsAndParameters.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex007_MethodsAndParameters\obj\Debug\net8.0\ref\ex007_MethodsAndParameters.dll

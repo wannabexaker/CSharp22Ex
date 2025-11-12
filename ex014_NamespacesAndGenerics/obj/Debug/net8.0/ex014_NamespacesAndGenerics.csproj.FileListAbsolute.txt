@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\bin\Debug\net8.0\ex014_NamespacesAndGenerics.exe
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\bin\Debug\net8.0\ex014_NamespacesAndGenerics.deps.json
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\bin\Debug\net8.0\ex014_NamespacesAndGenerics.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\bin\Debug\net8.0\ex014_NamespacesAndGenerics.dll
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\bin\Debug\net8.0\ex014_NamespacesAndGenerics.pdb
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.dll
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\refint\ex014_NamespacesAndGenerics.dll
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.pdb
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ex014_NamespacesAndGenerics.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex014_NamespacesAndGenerics\obj\Debug\net8.0\ref\ex014_NamespacesAndGenerics.dll

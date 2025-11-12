@@ -1,0 +1,14 @@
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\bin\Debug\net8.0\ex020_FinalBossProject.exe
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\bin\Debug\net8.0\ex020_FinalBossProject.deps.json
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\bin\Debug\net8.0\ex020_FinalBossProject.runtimeconfig.json
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\bin\Debug\net8.0\ex020_FinalBossProject.dll
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\bin\Debug\net8.0\ex020_FinalBossProject.pdb
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.AssemblyInfoInputs.cache
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.AssemblyInfo.cs
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.dll
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\refint\ex020_FinalBossProject.dll
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.pdb
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ex020_FinalBossProject.genruntimeconfig.cache
+C:\Projects\CSharp50Ex\ex020_FinalBossProject\obj\Debug\net8.0\ref\ex020_FinalBossProject.dll
