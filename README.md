@@ -15,7 +15,6 @@ All lessons are **fully runnable**, **commented**, and **written with real-world
 **Total Lessons:** 22  
 **Goal:** From “Hello World” to multi-layer enterprise structure
 
----
 
 ## 🧩 Lesson Structure
 
@@ -44,7 +43,6 @@ All lessons are **fully runnable**, **commented**, and **written with real-world
 | 21 | Savage Refactor | MVC-style enterprise refactor |
 | 22 | Final Boss Enterprize | Full layered app (Controllers, Data, Models, Services, Views) |
 
----
 
 ## 🧠 Highlights
 
@@ -54,14 +52,12 @@ All lessons are **fully runnable**, **commented**, and **written with real-world
 - **UTF-8 ready:** supports €, ©, and other civilized symbols
 - **Enterprise finale:** multi-layered architecture with full DI setup
 
----
 
 ## 🛠️ Requirements
 
 - **.NET 8.0 SDK** or newer  
 - IDE: Visual Studio 2022+ or VS Code with the C# Dev Kit  
 
----
 
 ## 🚀 Usage
 
@@ -80,12 +76,24 @@ cd ex006_LoopsAndIterations
 dotnet run
 ```
 
-🧾 License
+##🧾 License
 This repository is released as free educational material.
 You may reuse, modify, and share it — just keep the author’s credit.
 Learning is free. Refactoring your life isn’t.
 
-⚡ About
+##⚡ About
 Created by Tezas
 Network Engineer • Developer • Student
 Believes that learning C# should be practical, structured, and mildly sarcastic.
+
+---
+
+## 🙌 Acknowledgment
+
+This project stands on a simple truth: someone has to teach you the foundations before you can build anything worth looking at.  
+Credit goes to my C# instructor, **Michail Kasapoglou**, whose lessons shaped the core concepts behind these exercises.
+
+Every example here is rewritten, reorganized, expanded, and explained in my own style —  
+but the starting point, the mindset, and the discipline came from his teaching.
+
+Thumbs up. 👍
