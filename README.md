@@ -97,3 +97,10 @@ Every example here is rewritten, reorganized, expanded, and explained in my own 
 but the starting point, the mindset, and the discipline came from his teaching.
 
 Thumbs up. 👍
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+Licensed under the Apache License 2.0 - see [LICENSE](./LICENSE) and [NOTICE](./NOTICE).  
+Created by [Ioannis (wannabexaker)](https://github.com/wannabexaker) - Attribution required.
